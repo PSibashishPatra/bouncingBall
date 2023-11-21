@@ -1,0 +1,10 @@
+#field {
+  height: 200px;
+  border-bottom: 13px rgb(150, 103, 103) groove;
+  position: relative;
+}
+
+#ball {
+  position: absolute;
+  cursor: pointer;
+}
